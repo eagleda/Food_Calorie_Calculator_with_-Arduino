@@ -1,7 +1,7 @@
 # Food_Calorie_Calculator_with_Arduino
 아두이노 저울을 이용한 음식 칼로리 계산기 만들기
 
-##Description  
+## Description  
 FooD_Calorie_Calculator_with_Arduino(이하 CCWA)는 로드셀 센서로 구현한 아두이노 저울이 측정한 음식의 무게와 앱에서 블루투스로 아두이노로 전송한 신호값을 이용하여 음식의 총 칼로리를 계산, 다시 앱으로 전송하여 사용자에게 보여주는 프로그램이다.  
 <img width="531" alt="image" src="https://user-images.githubusercontent.com/83822982/206906815-5ac16f84-598d-4831-86a3-03a29442337c.png">
   
@@ -71,8 +71,9 @@ Arduino IDE로 위의 코드(source의 Cal_Calc_With_Arduino 파일)를 작성�
 "칼로리 계산"을 누르면 음식의 총 칼로리가 앱 하단부에 표시된다.    
 
 <img width="270" alt="image" src="https://user-images.githubusercontent.com/83822982/206906379-083060ab-1126-4e10-a5cd-14832f6da7d2.png">  
-사용 예시/demo 스크린샷
+사용 예시/demo 스크린샷  
+
 ## Envirionment
-Arduino IDE 2.0.3
+Arduino IDE 2.0.3  
 ## Reference
 https://github.com/eleparts/electronic-scale
