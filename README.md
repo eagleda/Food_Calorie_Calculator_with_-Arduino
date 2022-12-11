@@ -56,7 +56,7 @@ void loop() {
 }
 ```
 Arduino IDE로 위의 코드(source의 Cal_Calc_With_Arduino 파일)를 작성한 후, 
-아래 회로도대로 아두이노 회로르 작성하여 코드를 업로드 한다.
+아래 회로도대로 아두이노 회로 작성하여 코드를 업로드 한다.
 이 때, HX711.h는 Tools ->  Manage Libraries에서 직점 찾아 설치하여야 한다.  
 스마트폰의 블루투스 기기 검색에 나타나 HC-06을 눌러 연결한다(초기 PIN번호 = 1234)
 <img width="452" alt="image" src="https://user-images.githubusercontent.com/83822982/206904256-f31a8beb-e54e-4207-8ca0-db35baece432.png">
