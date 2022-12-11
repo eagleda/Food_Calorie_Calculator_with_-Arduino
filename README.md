@@ -76,4 +76,4 @@ Arduino IDE로 위의 코드(source의 Cal_Calc_With_Arduino 파일)를 작성�
 ## Envirionment
 Arduino IDE 2.0.3  
 ## Reference
-https://github.com/eleparts/electronic-scale
+https://github.com/eleparts/electronic-scale //로드셀 저울 회로 구현
